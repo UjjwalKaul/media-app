@@ -6,8 +6,8 @@ export default function App() {
   return (
     <View className="flex-1 items-center justify-center bg-white">
       <Text className="text-3xl font-pblack">Media App</Text>
-      <Link href="/profile" className=" text-blue-600">
-        Go to profile
+      <Link href="/home" className=" text-blue-600">
+        Go to Home
       </Link>
       <StatusBar style="auto" />
     </View>
