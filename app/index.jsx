@@ -5,7 +5,7 @@ import { Text, View } from 'react-native';
 export default function App() {
   return (
     <View className="flex-1 items-center justify-center bg-white">
-      <Text className="text-3xl">Media App</Text>
+      <Text className="text-3xl font-pblack">Media App</Text>
       <Link href="/profile" className=" text-blue-600">
         Go to profile
       </Link>
